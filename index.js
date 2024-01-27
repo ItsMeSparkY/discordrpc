@@ -15,9 +15,9 @@ client.on('ready', async () => {
     console.log(`${client.user.tag} - rich presence started!`
                )
 const r = new Discord.RichPresence()
-    .setApplicationId('1067763565601247272')
+    .setApplicationId('1197854616566636605')
     .setType('STREAMING')
-    .setURL('https://youtu.be/dQw4w9WgXcQ')
+    .setURL('https://www.twitch.tv/sparkyx69')
     .setState('Legit')
   
     .setName('MoonLight')
